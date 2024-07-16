@@ -1,0 +1,1 @@
+•	Control of Rotary Inverted Pendulum System: Regulator and Tracker Design with Observer, Advance Automatic Control. (MATLAB & Simulink)
